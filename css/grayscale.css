@@ -317,3 +317,11 @@ body {
 	background-color:#fff;
 	width:100%;
 }
+#how{
+	text-align:justify;
+}
+table, th, td {
+    border: 1px solid white;
+	padding:5px;
+}
+
